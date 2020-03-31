@@ -1,0 +1,22 @@
+/* Start MAin Rules */
+body {
+    background-color: #f4f4f4;
+}
+
+/* End Main Rules */
+/* Start login form */
+.login {
+    width: 400px;
+    margin: 100px auto;
+}
+.login h3 {color: #777;}
+.login input {
+    margin-bottom: 10px;
+}
+.login .form-control {
+    background-color: #EAEAEA;
+}
+.login .btn {
+    background-color: #008dde;
+}
+/* end login form */
